@@ -9,7 +9,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-text</artifactId>
-            <version>1.9</version> <!-- Has CVE-2022-42889 -->
+            <version>1.13.1</version> <!-- Has CVE-2022-42889 -->
         </dependency>
     </dependencies>
 </project>
